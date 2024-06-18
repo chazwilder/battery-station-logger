@@ -17,3 +17,5 @@ rayon = "1.10.0"
 anyhow = "1.0.86"
 dotenvy = {version = "0.15.7"}
 ads = {version = "0.4.3"}
+log = "0.4.21"
+env_logger = "0.11.3"
